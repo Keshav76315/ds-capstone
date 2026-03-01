@@ -25,6 +25,12 @@ Which visualizations to use for each slide in the IBM DS Capstone presentation.
 - Screenshot from `folium_launch_outcomes.html` (green/red markers)
 - Screenshot from `folium_distances.html` (proximity lines)
 
+## Slide: Dashboard Analysis (Plotly Dash)
+
+- `Slide_39.png` — All Sites Pie Chart showing total success launches
+- `Slide_40.png` — KSC LC-39A Pie Chart showing highest success ratio
+- `Slide_41.png` — Scatter Plot showing correlation between payload mass and success
+
 ## Slide: Predictive Analysis
 
 - `ml_model_comparison.png` — all 4 models side-by-side
@@ -58,3 +64,6 @@ Which visualizations to use for each slide in the IBM DS Capstone presentation.
 | `folium_launch_sites.html`        | 5     | Launch Sites Map                     |
 | `folium_launch_outcomes.html`     | 5     | Success/Fail Markers Map             |
 | `folium_distances.html`           | 5     | Proximity Distance Map               |
+| `Slide_39.png`                    | -     | Dashboard: All Sites Pie Chart       |
+| `Slide_40.png`                    | -     | Dashboard: KSC Pie Chart             |
+| `Slide_41.png`                    | -     | Dashboard: Payload Scatter Plot      |
